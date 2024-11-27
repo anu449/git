@@ -1,0 +1,3 @@
+def myname():
+    print("<NAME>")
+    
